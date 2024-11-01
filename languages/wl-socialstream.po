@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-10-08 09:44+0200\n"
+"PO-Revision-Date: 2015-10-08 09:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: *.css\n"
+
+#: hooks/_plugin.php:51
+msgid " wurde nicht gefunden"
+msgstr " not found"
+
+#: hooks/_plugin.php:66
+msgid "Bitte Youtube Konfiguration ueberpruefen."
+msgstr "Please check your Youtube configuration."
+
+#: hooks/_plugin.php:77
+msgid "Bitte Twitter Konfiguration ueberpruefen."
+msgstr "Please check your Twitter configuration."
+
+#: hooks/_plugin.php:88
+msgid "Bitte Instagram Konfiguration ueberpruefen."
+msgstr "Please check your Instagram configuration."
+
+#: hooks/_plugin.php:99
+msgid "Bitte Facebook Konfiguration ueberpruefen."
+msgstr "Please check your Facebook configuration."
+
+#: hooks/_plugin.php:111
+msgid " wurde verarbeitet."
+msgstr " has been processed."
+
+#: hooks/_plugin.php:113
+msgid " Fehler: "
+msgstr " Error: "
+
+#: hooks/_plugin.php:116
+msgid " ist Inaktiv."
+msgstr " is inactive."
+
+#: hooks/_plugin.php:218 hooks/_plugin.php:221
+msgid "You are not the owner of this page"
+msgstr "You are not the owner of this page id"
+
+#: hooks/_plugin.php:227
+msgid "No page found"
+msgstr "Couldn't find a page with this id"
+
+#: options/__options_facebook.php:89 options/__options_facebook.php:97
+msgid "Access Token Generieren"
+msgstr "Generate access token"
+
+#: options/__options_facebook.php:100
+msgid "Facebook Intro"
+msgstr ""
+"Configuration for the Interface to Facebook. You can find a guide for the "
+"configuration at Webleister: <a href=\"https://www.webleister.ch/plugins/"
+"socialstream/konfiguration/\" target=\"_blank\">Configuration Manual</a>"
+
+#: options/__options_instagram.php:87
+msgid "Instagram Intro"
+msgstr ""
+"Konfiguration for the Interface to Instagram. You can find a guide for the "
+"configuration at Webleister: <a href=\"https://www.webleister.ch/plugins/"
+"socialstream/konfiguration/\" target=\"_blank\">Configuration Manual</a>"
+
+#: options/__options_twitter.php:116
+msgid "Twitter Intro"
+msgstr ""
+"Konfiguration for the Interface to Twitter. You can find a guide for the "
+"configuration at Webleister: <a href=\"https://www.webleister.ch/plugins/"
+"socialstream/konfiguration/\" target=\"_blank\">Configuration Manual</a>"
+
+#: options/__options_wordpress.php:48
+msgid "Kategorien"
+msgstr "Categories"
+
+#: options/__options_wordpress.php:86
+msgid "Wordpress Intro"
+msgstr ""
+"Konfiguration for the Wordpress Entries. You can find a guide for the "
+"configuration at Webleister: <a href=\"https://www.webleister.ch/plugins/"
+"socialstream/konfiguration/\" target=\"_blank\">Configuration Manual</a>"
+
+#: options/__options_youtube.php:88
+msgid "YouTube Intro"
+msgstr ""
+"Konfiguration for the Interface to YouTube. You can find a guide for the "
+"configuration at Webleister: <a href=\"https://www.webleister.ch/plugins/"
+"socialstream/konfiguration/\" target=\"_blank\">Configuration Manual</a>"
+
+#: options/_options.php:42
+msgid "Einstellungen"
+msgstr "Settings"
+
+#: options/_options.php:71
+msgid "Not authorized."
+msgstr "You're not authorized."
+
+#: options/_options.php:72
+msgid "User cancelled login or did not fully authorize."
+msgstr ""
+"You canceled the login process or didn't granted the Facebook app permission."
+
+#: options/_options.php:73
+msgid "Could not retrieve Token please check your Configuration."
+msgstr "No token could be retrieved. Please check your configuration."
+
+#: options/_options.php:172
+msgid "Anzahl Eintraege / Eintraege pro Load"
+msgstr "Entries / Entries per load"
+
+#: options/_options.php:186
+msgid "Eintraege verlinken?"
+msgstr "Link entries?"
+
+#: options/_options.php:239
+msgid "General Intro"
+msgstr ""
+"You can find a guide for the configuration at Webleister: <a href=\"https://"
+"www.webleister.ch/plugins/socialstream/konfiguration/\" target=\"_blank"
+"\">Configuration Manual</a>"
+
+#: options/_options.php:239
+msgid "Daten laden"
+msgstr "Load data"
+
+#~ msgid "Webleister Core Cache"
+#~ msgstr "Webleister Core Cache"
+
+#~ msgid "Webleister Core Caches"
+#~ msgstr "Webleister Core Caches"
+
+#~ msgid "Never"
+#~ msgstr "Never"
+
+#~ msgid "CacheGroup"
+#~ msgstr "CacheGroup"
+
+#~ msgid "CacheKey"
+#~ msgstr "CacheKey"
+
+#~ msgid "Value"
+#~ msgstr "Value"
+
+#~ msgid "Expire"
+#~ msgstr "Expire"
+
+#~ msgid "Webleister Core File Cache"
+#~ msgstr "Webleister Core File Cache"
+
+#~ msgid "Webleister Core File Caches"
+#~ msgstr "Webleister Core File Caches"
+
+#~ msgid "FileName"
+#~ msgstr "FileName"
+
+#~ msgid "Webleister Optionen Post Type"
+#~ msgstr "Webleister Optionen Post Type"
+
+#~ msgid "Post Type"
+#~ msgstr "Post Type"
+
+#~ msgid ""
+#~ "Waehlen Sie mit diesem Feld aus, auf welchen Seitentypen das Plugin "
+#~ "verwendet werden soll."
+#~ msgstr ""
+#~ "Wählen Sie mit diesem Feld aus, auf welchen Seitentypen das Plugin "
+#~ "verwendet werden soll."
+
+#~ msgid "WL Core Cache"
+#~ msgstr "WL Core Cache"
+
+#~ msgid "Cache"
+#~ msgstr "Cache"
+
+#~ msgid "WL Core File Cache"
+#~ msgstr "WL Core File Cache"
+
+#~ msgid "Webleister Core Settings"
+#~ msgstr "Webleister Core Settings"
+
+#~ msgid "WL Core Settings"
+#~ msgstr "WL Core Settings"
+
+#~ msgid "General"
+#~ msgstr "General"
+
+#~ msgid "PDF Links in neuem Fenster oeffnen"
+#~ msgstr "PDF Links in neuem Fenster öffnen"
+
+#~ msgid "PDF Links mit Klasse wlpdf versehen"
+#~ msgstr "PDF Links mit Klasse wlpdf versehen"
+
+#~ msgid "MailTo Links mit Klasse wlemail versehen"
+#~ msgstr "MailTo Links mit Klasse wlemail versehen"
+
+#~ msgid "WL_Core_Cache"
+#~ msgstr "WL_Core_Cache"
+
+#~ msgid "WL_Core_Caches"
+#~ msgstr "WL_Core_Caches"
+
+#~ msgid "hello_world"
+#~ msgstr "Hallo Welt"
+
+#~ msgid "hello_template"
+#~ msgstr "Template Loaded"
+
+#~ msgid "Hallo Welt"
+#~ msgstr "Hallo Welt"
